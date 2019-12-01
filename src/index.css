@@ -27,7 +27,6 @@ code {
 }
 
 .container{
-  /* background-color: #ded5d5; */
   width: 800px;
   margin: 0 auto;
   display: flex;
@@ -36,10 +35,6 @@ code {
 
 .carousel{
   margin: 10px 0px;
-}
-
-.slide{
-  border-radius: 10px;
 }
 
 a{
